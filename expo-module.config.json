@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["ReactNativeBackgroundGeolocationFreeModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.backgroundgeolocationfree.ReactNativeBackgroundGeolocationFreeModule"]
+  }
+}
